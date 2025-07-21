@@ -14,6 +14,7 @@ public class Main {
 
         print(n+1,stop);         // calling the function again by the updated value in the parameter.
     }
+    
     public static void main(String[] args) {
         System.out.println("Recursion");
         print(1,10);  // calling recursive function.
