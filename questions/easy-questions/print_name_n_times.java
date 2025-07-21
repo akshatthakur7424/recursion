@@ -1,4 +1,5 @@
 public class print_name_n_times {
+    // counter
     static int counter = 0;
 
     // recursive function - print name n times
